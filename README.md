@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 
-# **DESARROLLADO CON** 🚀 :
+# **Favorite programming languages** 🚀 :
 
 <div>
   <p align="center">
     <img width="300" src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611ddded6514a630ea02a889f55ef9c3bb794c06daf&rid=giphy.gif&ct=g">
-    <img width="245" src="https://www.pistalix.in/wp-content/uploads/2018/11/flask.gif">
     <img width="306" src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/12/migration-from-angularjs-to-angular.gif">
   </p>
 </div>
