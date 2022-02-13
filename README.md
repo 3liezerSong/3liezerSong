@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on IT support technician.
 - 🌱 I’m currently learning Data analysis and React.
+- ⚡ I'm expert in git, github and gitlab.
 - 💬 Ask me about Computer security and programming.
-- ⚡ 
+
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 
