@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-- **BlueTeam, RedTeam, ParrotOs, Kali linux  OSCP, OSWP, CPHE, CHEE ** 
+- **BlueTeam, RedTeam, ParrotOs, Kali linux  OSCP, OSWP, CPHE, CHEE** 
 
 <div>
   <p align="center">
