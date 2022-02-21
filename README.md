@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on IT support technician.
 - 🌱 I’m currently learning Data analysis and React.
 - ⚡ I'm expert in git, github and gitlab.
-- 💬 Ask me about Computer security and programming.
+- 💬 Ask me about Ask me about OSCP, OSCP, CPHE, CEH, Guatemala, Japan, Australia, China, USA.
 
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
