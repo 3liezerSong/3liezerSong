@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on IT support technician.
-- 🌱 I’m currently learning Data analysis and React.
-- ⚡ I'm expert in git, github and gitlab.
+- 🌱 I’m currently I am currently learning English, Data analysis and software development.
+- ⚡ I would like to develop software to combat crime and insecurity on the Internet.
 - 💬 Ask me about Ask me about Guatemala, Japan, Australia, China, USA.
 
 <!-- 👯 I’m looking to collaborate on ... -->
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-- **BlueTeam, RedTeam, ParrotOs, Kali linux  OSCP, OSWP, CPHE, CHEE** 
+- **BlueTeam, RedTeam, ParrotOs, Kali linux, OSCP, OSWP, CPHE, CHEE** 
 
 <div>
   <p align="center">
