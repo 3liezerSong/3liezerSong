@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <!-- 😄 Pronouns: ... -->
 
 # **Favorite programming languages** 🚀 :
+https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 
 <div>
   <p align="center">
