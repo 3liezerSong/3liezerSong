@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 Cybersecurity lover, your next trusted webmaster, potential data analytics trainee, cloud computing enthusiast, and devOps practitioner.
 
 - My dream is to change the world with research.
-- ⚡ I would like to develop software to combat crime and insecurity on the Internet.
-- 💬 Ask me about Ask me about Guatemala, Japan, Australia, China, USA.
+- I would like to develop software to combat crime and insecurity on the Internet.
+- Ask me about Ask me about Guatemala, Japan, Australia, China, USA.
 
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
@@ -19,7 +19,7 @@ Cybersecurity lover, your next trusted webmaster, potential data analytics train
 <!-- 😄 Pronouns: ... -->
 
 # **MY VOCABULARY**
-- **DevOps**
+- **DevOps..**
 
 <div>
    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit"/>
