@@ -32,7 +32,7 @@ Cybersecurity lover, your next trusted webmaster, potential data analytics train
   </p>
 </div>
 
-- **BlueTeam, RedTeam, ParrotOs, Kali linux, OSCP, OSWP, CPHE, CHEE** 
+- **BlueTeam, RedTeam, ParrotOs, Kali linux, OSCP, OSWP, CPHE, CHEE, OWASP** 
 
 <div>
   <p align="center">
